@@ -37,6 +37,7 @@ nav a {
     color: black;
     font-size: 1.1rem;
     transition: opacity 0.2s ease;
+    font-weight: 2800;
 }
 
 nav a:hover {
@@ -55,8 +56,8 @@ main {
 /* Video */
 
 video {
-    width: 95%;
-    height: 78vh;
+    width: 98%;
+    height: 98%;
     object-fit: cover;
     display: block;
 }

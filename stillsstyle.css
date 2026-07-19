@@ -37,6 +37,7 @@ nav a {
     color: black;
     font-size: 1.1rem;
     transition: opacity 0.2s ease;
+    font-weight: 2800;
 }
 
 nav a:hover {
