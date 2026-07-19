@@ -61,6 +61,16 @@ video {
     display: block;
 }
 
+/* Mobile Video */
+
+@media (max-width: 768px) {
+    video {
+        width: 100vw;
+        max-width: none;
+        margin-left: calc(50% - 50vw);
+    }
+}
+
 /* Button */
 
 button {
