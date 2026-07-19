@@ -103,13 +103,11 @@ header h1 a:hover {
 /* Mobile */
 
 @media (max-width: 768px) {
-
     main {
-        padding: 20px 15px;
+        padding: 20px;
     }
-
     .gallery {
-        gap: 12px;
+        grid-template-columns: 1fr;
+        gap: 20px;
     }
-
 }
