@@ -99,3 +99,17 @@ header h1 a {
 header h1 a:hover {
     opacity: 0.7;
 }
+
+/* Mobile */
+
+@media (max-width: 768px) {
+
+    main {
+        padding: 20px 15px;
+    }
+
+    .gallery {
+        gap: 12px;
+    }
+
+}
