@@ -53,15 +53,6 @@ main {
     padding: 40px 50px;
 }
 
-/* Video */
-
-video {
-    width: 95%;
-    height: 78vh;
-    object-fit: cover;
-    display: block;
-}
-
 /* Button */
 
 button {
