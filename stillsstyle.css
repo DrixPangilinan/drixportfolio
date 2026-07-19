@@ -110,4 +110,20 @@ header h1 a:hover {
         grid-template-columns: 1fr;
         gap: 20px;
     }
+
+    header {
+        padding: 15px 20px;
+    }
+
+    header h1 {
+        font-size: 1.2rem;
+    }
+
+    nav a {
+        font-size: 1rem;
+    }
+
+    main {
+        padding: 30px 20px;
+    }
 }
